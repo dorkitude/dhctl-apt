@@ -13,3 +13,18 @@ Homepage: https://github.com/dorkitude/dhctl
 Description: CLI for the DreamHost API: DNS records, announcement lists and the API
  metacommands.
 
+Package: dhctl
+Version: 0.3.100
+Architecture: amd64
+Maintainer: Kyle Wild <kyle@kylewild.com>
+Installed-Size: 9357
+Filename: pool/main/d/dhctl/dhctl_0.3.100_linux_amd64.deb
+Size: 3787352
+MD5sum: 689a08a594053f0bf76042b1aa5fc963
+SHA1: 1fd00afc504bc6b58281f85116816b138cfacd6e
+SHA256: 05be168cd301d4dd44d372e190a82a331ff3937421ee3d4afe9d7bb78a871afc
+Priority: optional
+Homepage: https://github.com/dorkitude/dhctl
+Description: CLI for the DreamHost API: DNS records, announcement lists and the API
+ metacommands.
+
