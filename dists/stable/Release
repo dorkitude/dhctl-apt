@@ -1,0 +1,32 @@
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Thu, 15 Oct 2026 03:58:01 +0000
+Description: dhctl apt repository
+Label: dhctl
+Origin: dhctl
+Suite: stable
+MD5Sum:
+ 14f5ea93d640f941cd3247e7f1d6bb72              174 Release
+ 8d83a21e96ff2c293eb2a9c5e32ba514              508 main/binary-amd64/Packages
+ 4ebad45f0cb1c3135126f77c40172eb7              398 main/binary-amd64/Packages.gz
+ e0eaeece82d70a98b35b85e2b79f3c89              508 main/binary-arm64/Packages
+ 2627d562b96005b0d9ba228d500b9dfe              397 main/binary-arm64/Packages.gz
+SHA1:
+ a350d647f3cdb3a0ee26e0f2fc7d0c058fae6777              174 Release
+ cfc95a069f68fd6ba0b5c635fbc436cc61802a72              508 main/binary-amd64/Packages
+ 4bd56d3113e918635708b8ef026e418adfc81617              398 main/binary-amd64/Packages.gz
+ 532f290e7401f4ba6d4831a0383d9e0eebac8e26              508 main/binary-arm64/Packages
+ dbe25c54488f0b70fde669516ef0b4d8f909e7f2              397 main/binary-arm64/Packages.gz
+SHA256:
+ a2ebd0061d1ba5ab2b770ac906e1d7dad769cf5c3f8841ebe67aa473382cb939              174 Release
+ f19962ce3fbc499c5bab80bad0ffd8a79fe66c95330eec081950788cb1351fa2              508 main/binary-amd64/Packages
+ 6da4439324774bb10562403e3a6e99ac3bcb5afcb11669ed182f661b448ac1e7              398 main/binary-amd64/Packages.gz
+ 0b7c56d2f81a0fceeec93991e90d21455be1f668ff1931e3ef6d557d0164c32a              508 main/binary-arm64/Packages
+ f55dc2d3bcc7abaf1ca64c8ef9ab942d8d897ed9a9630995811b3262f8d805de              397 main/binary-arm64/Packages.gz
+SHA512:
+ 0ba63052c9e3127bd5c8c31f874e06aac513ff154df527121695ee3b22ca2ec3296e9f7b11093829bc100217a2a1dd929db3232da4b44ae5bd6b900763fd8de0              174 Release
+ fea04daff4ac0466cf5a356553e878ac5b34671aa47172f0e61959f5dac163f79c896cabe48dec975e8a70ef8778f5290fbd9230375e876c31b1e82a23ac0336              508 main/binary-amd64/Packages
+ 0536c0031ea54acb1f82caef820b0fe9039c794919d65dc1c7be0fd526d6e0430a844dbc23dcc3036ac37c5dbdacdf2a66c53c03f6006512ec5650e75afeebc0              398 main/binary-amd64/Packages.gz
+ dcb0a65cdb8a0ed14f02a54524e42dddb68bbee80c4e2a823b052895f72b1db167e59482b454b25b679034844e757c27718da03738fe325efc4fd57b2f2c9f0b              508 main/binary-arm64/Packages
+ c9d7ee2cf4bab11c26052c4056cd101d990a64574f013e80f7491092cc8b7f3c72ae6647607acfcb0512db5197cdc4d406c195f13024197fecfc877c3d3d11e0              397 main/binary-arm64/Packages.gz
